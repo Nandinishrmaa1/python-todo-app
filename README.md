@@ -88,5 +88,5 @@ It’s a small step, but an important one in my Python learning journey 🚀
 
 ---
 
-## 📌 Author
+## 💌 Author
 Nandini Sharma
